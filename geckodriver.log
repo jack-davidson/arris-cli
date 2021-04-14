@@ -1,0 +1,1160 @@
+1616178118501	geckodriver	INFO	Listening on 127.0.0.1:41927
+1616178118503	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Ykudl"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:32497): GLib-GObject-CRITICAL **: 13:21:59.173: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32518): GLib-GObject-CRITICAL **: 13:21:59.327: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178119722	Marionette	INFO	Listening on port 45689
+1616178119829	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32603): GLib-GObject-CRITICAL **: 13:22:00.185: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178139958	geckodriver	INFO	Listening on 127.0.0.1:54081
+1616178139960	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO6G6rS"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:627): GLib-GObject-CRITICAL **: 13:22:20.627: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:657): GLib-GObject-CRITICAL **: 13:22:20.759: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178141364	Marionette	INFO	Listening on port 32997
+1616178141673	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:884): GLib-GObject-CRITICAL **: 13:22:21.707: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178153156	geckodriver	INFO	Listening on 127.0.0.1:42295
+1616178153158	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiubRK9"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:1114): GLib-GObject-CRITICAL **: 13:22:33.850: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1135): GLib-GObject-CRITICAL **: 13:22:33.983: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178154525	Marionette	INFO	Listening on port 34587
+1616178154582	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1212): GLib-GObject-CRITICAL **: 13:22:34.859: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178155584	Marionette	INFO	Stopped listening on port 34587
+1616178157500	geckodriver	INFO	Listening on 127.0.0.1:42917
+1616178157502	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLbeRRD"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:1528): GLib-GObject-CRITICAL **: 13:22:38.176: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1549): GLib-GObject-CRITICAL **: 13:22:38.333: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178158808	Marionette	INFO	Listening on port 43235
+1616178158927	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1631): GLib-GObject-CRITICAL **: 13:22:39.235: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178159863	Marionette	INFO	Stopped listening on port 43235
+1616178273326	geckodriver	INFO	Listening on 127.0.0.1:57911
+1616178273330	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekrAaEm"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3465): GLib-GObject-CRITICAL **: 13:24:33.981: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3486): GLib-GObject-CRITICAL **: 13:24:34.112: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178274676	Marionette	INFO	Listening on port 39225
+1616178274825	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3566): GLib-GObject-CRITICAL **: 13:24:34.982: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178275693	Marionette	INFO	Stopped listening on port 39225
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+1616178416103	geckodriver	INFO	Listening on 127.0.0.1:53813
+1616178416105	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9TZyzk"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:5271): GLib-GObject-CRITICAL **: 13:26:56.777: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5292): GLib-GObject-CRITICAL **: 13:26:56.934: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178417301	Marionette	INFO	Listening on port 45497
+1616178417320	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5373): GLib-GObject-CRITICAL **: 13:26:57.779: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178418171	Marionette	INFO	Stopped listening on port 45497
+1616178440014	geckodriver	INFO	Listening on 127.0.0.1:56765
+1616178440016	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZx25Lu"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:5615): GLib-GObject-CRITICAL **: 13:27:20.673: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5636): GLib-GObject-CRITICAL **: 13:27:20.834: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178441199	Marionette	INFO	Listening on port 36789
+1616178441235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:5728): GLib-GObject-CRITICAL **: 13:27:21.674: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178460022	geckodriver	INFO	Listening on 127.0.0.1:46723
+1616178460024	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSSkzn"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:5996): GLib-GObject-CRITICAL **: 13:27:40.683: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6017): GLib-GObject-CRITICAL **: 13:27:40.819: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178461255	Marionette	INFO	Listening on port 40373
+1616178461348	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6110): GLib-GObject-CRITICAL **: 13:27:41.688: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178462228	Marionette	INFO	Stopped listening on port 40373
+1616178501951	geckodriver	INFO	Listening on 127.0.0.1:34379
+1616178501953	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3JYmn"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:8939): GLib-GObject-CRITICAL **: 13:28:22.641: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8960): GLib-GObject-CRITICAL **: 13:28:22.755: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178503192	Marionette	INFO	Listening on port 33253
+1616178503273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:9041): GLib-GObject-CRITICAL **: 13:28:23.640: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178505006	Marionette	INFO	Stopped listening on port 33253
+1616178530599	geckodriver	INFO	Listening on 127.0.0.1:56179
+1616178530601	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejuRelk"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:9305): GLib-GObject-CRITICAL **: 13:28:51.245: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9326): GLib-GObject-CRITICAL **: 13:28:51.401: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178531916	Marionette	INFO	Listening on port 36569
+1616178532143	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9418): GLib-GObject-CRITICAL **: 13:28:52.288: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178533901	Marionette	INFO	Stopped listening on port 36569
+1616178540685	geckodriver	INFO	Listening on 127.0.0.1:34279
+1616178540686	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4AEqWJ"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:9584): GLib-GObject-CRITICAL **: 13:29:01.361: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9605): GLib-GObject-CRITICAL **: 13:29:01.516: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178542037	Marionette	INFO	Listening on port 46275
+1616178542110	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9698): GLib-GObject-CRITICAL **: 13:29:02.388: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178543982	Marionette	INFO	Stopped listening on port 46275
+1616178598369	geckodriver	INFO	Listening on 127.0.0.1:48979
+1616178598371	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepvVRbc"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:10226): GLib-GObject-CRITICAL **: 13:29:59.057: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10247): GLib-GObject-CRITICAL **: 13:29:59.198: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178599638	Marionette	INFO	Listening on port 38303
+1616178599685	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10332): GLib-GObject-CRITICAL **: 13:30:00.039: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178601438	Marionette	INFO	Stopped listening on port 38303
+1616178617999	geckodriver	INFO	Listening on 127.0.0.1:49257
+1616178618001	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGRBqVP"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:10593): GLib-GObject-CRITICAL **: 13:30:18.684: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10614): GLib-GObject-CRITICAL **: 13:30:18.840: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178619371	Marionette	INFO	Listening on port 33763
+1616178619415	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10692): GLib-GObject-CRITICAL **: 13:30:19.688: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178622108	Marionette	INFO	Stopped listening on port 33763
+1616178661457	geckodriver	INFO	Listening on 127.0.0.1:35283
+1616178661458	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5OxG0p"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:20662): GLib-GObject-CRITICAL **: 13:31:02.152: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20683): GLib-GObject-CRITICAL **: 13:31:02.307: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178662709	Marionette	INFO	Listening on port 36589
+1616178662772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:20765): GLib-GObject-CRITICAL **: 13:31:03.186: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178665153	Marionette	INFO	Stopped listening on port 36589
+1616178670172	geckodriver	INFO	Listening on 127.0.0.1:39571
+1616178670174	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAgy4Kl"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:20929): GLib-GObject-CRITICAL **: 13:31:10.870: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20950): GLib-GObject-CRITICAL **: 13:31:11.004: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178671525	Marionette	INFO	Listening on port 42715
+1616178671590	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21040): GLib-GObject-CRITICAL **: 13:31:11.888: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178674087	Marionette	INFO	Stopped listening on port 42715
+1616178713839	geckodriver	INFO	Listening on 127.0.0.1:59409
+1616178713841	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWnis3B"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21444): GLib-GObject-CRITICAL **: 13:31:54.507: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21550): GLib-GObject-CRITICAL **: 13:31:54.687: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178715098	Marionette	INFO	Listening on port 37897
+1616178715155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:21667): GLib-GObject-CRITICAL **: 13:31:55.541: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178716760	Marionette	INFO	Stopped listening on port 37897
+1616178772678	geckodriver	INFO	Listening on 127.0.0.1:59007
+1616178772680	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejG82v5"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22089): GLib-GObject-CRITICAL **: 13:32:53.362: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22110): GLib-GObject-CRITICAL **: 13:32:53.514: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178773909	Marionette	INFO	Listening on port 39311
+1616178774006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:22190): GLib-GObject-CRITICAL **: 13:32:54.397: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178774930	Marionette	INFO	Stopped listening on port 39311
+1616178778956	geckodriver	INFO	Listening on 127.0.0.1:46355
+1616178778958	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemfIQm7"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22355): GLib-GObject-CRITICAL **: 13:32:59.654: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22376): GLib-GObject-CRITICAL **: 13:32:59.802: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178780231	Marionette	INFO	Listening on port 36693
+1616178780272	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22461): GLib-GObject-CRITICAL **: 13:33:00.664: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178781217	Marionette	INFO	Stopped listening on port 36693
+1616178890567	geckodriver	INFO	Listening on 127.0.0.1:42291
+1616178890569	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV4TyDO"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:25911): GLib-GObject-CRITICAL **: 13:34:51.271: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25932): GLib-GObject-CRITICAL **: 13:34:51.402: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178891802	Marionette	INFO	Listening on port 36791
+1616178891895	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26028): GLib-GObject-CRITICAL **: 13:34:52.271: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178892778	Marionette	INFO	Stopped listening on port 36791
+1616178901401	geckodriver	INFO	Listening on 127.0.0.1:44973
+1616178901402	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUIOjrq"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26211): GLib-GObject-CRITICAL **: 13:35:02.069: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26244): GLib-GObject-CRITICAL **: 13:35:02.213: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178902950	Marionette	INFO	Listening on port 45831
+1616178903033	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26324): GLib-GObject-CRITICAL **: 13:35:03.111: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178904730	Marionette	INFO	Stopped listening on port 45831
+1616178917321	geckodriver	INFO	Listening on 127.0.0.1:46475
+1616178917323	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekIM6vj"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26546): GLib-GObject-CRITICAL **: 13:35:17.996: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26567): GLib-GObject-CRITICAL **: 13:35:18.134: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616178918655	Marionette	INFO	Listening on port 42227
+1616178918744	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26682): GLib-GObject-CRITICAL **: 13:35:19.056: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616178920583	Marionette	INFO	Stopped listening on port 42227
+1616179215671	geckodriver	INFO	Listening on 127.0.0.1:48043
+1616179215673	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWk641"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29045): GLib-GObject-CRITICAL **: 13:40:16.375: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29066): GLib-GObject-CRITICAL **: 13:40:16.511: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179216884	Marionette	INFO	Listening on port 41669
+1616179216998	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29145): GLib-GObject-CRITICAL **: 13:40:17.398: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179217793	Marionette	INFO	Stopped listening on port 41669
+1616179234514	geckodriver	INFO	Listening on 127.0.0.1:52181
+1616179234516	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9fdds8"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29379): GLib-GObject-CRITICAL **: 13:40:35.186: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29400): GLib-GObject-CRITICAL **: 13:40:35.354: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179235758	Marionette	INFO	Listening on port 38815
+1616179235838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:29487): GLib-GObject-CRITICAL **: 13:40:36.213: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179236629	Marionette	INFO	Stopped listening on port 38815
+1616179248583	geckodriver	INFO	Listening on 127.0.0.1:54751
+1616179248585	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2yjMjD"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29707): GLib-GObject-CRITICAL **: 13:40:49.266: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29730): GLib-GObject-CRITICAL **: 13:40:49.430: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179249837	Marionette	INFO	Listening on port 46177
+1616179249915	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29811): GLib-GObject-CRITICAL **: 13:40:50.281: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179251665	Marionette	INFO	Stopped listening on port 46177
+1616179404149	geckodriver	INFO	Listening on 127.0.0.1:47299
+1616179404151	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Hg3w1"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:30638): GLib-GObject-CRITICAL **: 13:43:24.825: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:30659): GLib-GObject-CRITICAL **: 13:43:24.979: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179405354	Marionette	INFO	Listening on port 38503
+1616179405477	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30740): GLib-GObject-CRITICAL **: 13:43:25.836: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179406215	Marionette	INFO	Stopped listening on port 38503
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616179430381	geckodriver	INFO	Listening on 127.0.0.1:34655
+1616179430383	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCMFRjT"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:31148): GLib-GObject-CRITICAL **: 13:43:51.060: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:31169): GLib-GObject-CRITICAL **: 13:43:51.182: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179431674	Marionette	INFO	Listening on port 35991
+1616179431697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:31250): GLib-GObject-CRITICAL **: 13:43:52.088: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179470891	geckodriver	INFO	Listening on 127.0.0.1:47479
+1616179470893	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT4YDzV"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:32351): GLib-GObject-CRITICAL **: 13:44:31.568: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32372): GLib-GObject-CRITICAL **: 13:44:31.726: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179472116	Marionette	INFO	Listening on port 35141
+1616179472218	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32469): GLib-GObject-CRITICAL **: 13:44:32.591: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179474370	Marionette	INFO	Stopped listening on port 35141
+1616179532726	geckodriver	INFO	Listening on 127.0.0.1:47499
+1616179532728	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileouMP7h"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:2449): GLib-GObject-CRITICAL **: 13:45:33.401: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2470): GLib-GObject-CRITICAL **: 13:45:33.563: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179533910	Marionette	INFO	Listening on port 38329
+1616179533943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:2548): GLib-GObject-CRITICAL **: 13:45:34.460: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179535996	Marionette	INFO	Stopped listening on port 38329
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616179543525	geckodriver	INFO	Listening on 127.0.0.1:50927
+1616179543527	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZ4Rg4"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:2739): GLib-GObject-CRITICAL **: 13:45:44.230: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2760): GLib-GObject-CRITICAL **: 13:45:44.395: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179544814	Marionette	INFO	Listening on port 39965
+1616179544843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:2840): GLib-GObject-CRITICAL **: 13:45:45.231: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179546938	Marionette	INFO	Stopped listening on port 39965
+1616179635342	geckodriver	INFO	Listening on 127.0.0.1:45317
+1616179635344	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDjMJJ5"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3409): GLib-GObject-CRITICAL **: 13:47:16.034: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3430): GLib-GObject-CRITICAL **: 13:47:16.179: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179636715	Marionette	INFO	Listening on port 35459
+1616179636770	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3511): GLib-GObject-CRITICAL **: 13:47:17.079: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179637517	Marionette	INFO	Stopped listening on port 35459
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=1562.51) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=250.626) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616179705446	geckodriver	INFO	Listening on 127.0.0.1:36531
+1616179705448	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeBz4Pv"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3987): GLib-GObject-CRITICAL **: 13:48:26.107: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4008): GLib-GObject-CRITICAL **: 13:48:26.254: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179706644	Marionette	INFO	Listening on port 40639
+1616179706662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:4087): GLib-GObject-CRITICAL **: 13:48:27.164: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179726266	geckodriver	INFO	Listening on 127.0.0.1:43063
+1616179726268	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYMk6MU"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:4374): GLib-GObject-CRITICAL **: 13:48:46.955: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4395): GLib-GObject-CRITICAL **: 13:48:47.106: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179727663	Marionette	INFO	Listening on port 39807
+1616179727682	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4495): GLib-GObject-CRITICAL **: 13:48:47.974: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179729880	Marionette	INFO	Stopped listening on port 39807
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616179809370	geckodriver	INFO	Listening on 127.0.0.1:40635
+1616179809372	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledL4rqn"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:5021): GLib-GObject-CRITICAL **: 13:50:10.029: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5042): GLib-GObject-CRITICAL **: 13:50:10.214: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179810754	Marionette	INFO	Listening on port 44129
+1616179810789	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5126): GLib-GObject-CRITICAL **: 13:50:11.108: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179813381	Marionette	INFO	Stopped listening on port 44129
+1616179834797	geckodriver	INFO	Listening on 127.0.0.1:42511
+1616179834799	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilereQx5d"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:5442): GLib-GObject-CRITICAL **: 13:50:35.461: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5463): GLib-GObject-CRITICAL **: 13:50:35.613: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179836034	Marionette	INFO	Listening on port 34433
+1616179836126	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5542): GLib-GObject-CRITICAL **: 13:50:36.470: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179838569	Marionette	INFO	Stopped listening on port 34433
+1616179948367	geckodriver	INFO	Listening on 127.0.0.1:37513
+1616179948369	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9yVax"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:6429): GLib-GObject-CRITICAL **: 13:52:29.049: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6450): GLib-GObject-CRITICAL **: 13:52:29.198: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179949767	Marionette	INFO	Listening on port 40049
+1616179949796	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6532): GLib-GObject-CRITICAL **: 13:52:30.084: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616179951981	Marionette	INFO	Stopped listening on port 40049
+1616179980903	geckodriver	INFO	Listening on 127.0.0.1:55035
+1616179980905	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejCKZjR"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:6799): GLib-GObject-CRITICAL **: 13:53:01.628: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6820): GLib-GObject-CRITICAL **: 13:53:01.771: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179982132	Marionette	INFO	Listening on port 43951
+1616179982232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:6899): GLib-GObject-CRITICAL **: 13:53:02.635: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179984377	Marionette	INFO	Stopped listening on port 43951
+1616179998357	geckodriver	INFO	Listening on 127.0.0.1:56779
+1616179998359	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem5XwRa"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:7114): GLib-GObject-CRITICAL **: 13:53:19.032: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7135): GLib-GObject-CRITICAL **: 13:53:19.180: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616179999541	Marionette	INFO	Listening on port 40827
+1616179999579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:7213): GLib-GObject-CRITICAL **: 13:53:20.033: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180001693	Marionette	INFO	Stopped listening on port 40827
+1616180017319	geckodriver	INFO	Listening on 127.0.0.1:59875
+1616180017321	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev8CpKe"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:7447): GLib-GObject-CRITICAL **: 13:53:38.023: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7468): GLib-GObject-CRITICAL **: 13:53:38.180: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180018745	Marionette	INFO	Listening on port 40001
+1616180018870	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7556): GLib-GObject-CRITICAL **: 13:53:39.014: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180021165	Marionette	INFO	Stopped listening on port 40001
+1616180174718	geckodriver	INFO	Listening on 127.0.0.1:50183
+1616180174720	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletISyLB"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:8299): GLib-GObject-CRITICAL **: 13:56:15.414: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8320): GLib-GObject-CRITICAL **: 13:56:15.570: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180175970	Marionette	INFO	Listening on port 33839
+1616180176046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:8399): GLib-GObject-CRITICAL **: 13:56:16.434: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180192122	geckodriver	INFO	Listening on 127.0.0.1:55419
+1616180192124	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegA5YrK"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:8604): GLib-GObject-CRITICAL **: 13:56:32.808: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8625): GLib-GObject-CRITICAL **: 13:56:32.961: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180193373	Marionette	INFO	Listening on port 43829
+1616180193454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:8704): GLib-GObject-CRITICAL **: 13:56:33.838: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180194916	Marionette	INFO	Stopped listening on port 43829
+1616180220637	geckodriver	INFO	Listening on 127.0.0.1:41943
+1616180220639	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXOjV7H"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:8971): GLib-GObject-CRITICAL **: 13:57:01.312: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8996): GLib-GObject-CRITICAL **: 13:57:01.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180222003	Marionette	INFO	Listening on port 34269
+1616180222249	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9076): GLib-GObject-CRITICAL **: 13:57:02.291: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180222946	Marionette	INFO	Stopped listening on port 34269
+1616180230815	geckodriver	INFO	Listening on 127.0.0.1:45683
+1616180230817	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJvleJ1"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:9261): GLib-GObject-CRITICAL **: 13:57:11.502: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9282): GLib-GObject-CRITICAL **: 13:57:11.617: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180232178	Marionette	INFO	Listening on port 37905
+1616180232435	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9363): GLib-GObject-CRITICAL **: 13:57:12.508: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180233873	Marionette	INFO	Stopped listening on port 37905
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+1616180449692	geckodriver	INFO	Listening on 127.0.0.1:54677
+1616180449695	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAo0Imn"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:11047): GLib-GObject-CRITICAL **: 14:00:50.352: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11068): GLib-GObject-CRITICAL **: 14:00:50.501: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180450957	Marionette	INFO	Listening on port 32999
+1616180451021	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11150): GLib-GObject-CRITICAL **: 14:00:51.362: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180516131	geckodriver	INFO	Listening on 127.0.0.1:38485
+1616180516133	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexuLqjc"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:11646): GLib-GObject-CRITICAL **: 14:01:56.838: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11667): GLib-GObject-CRITICAL **: 14:01:56.946: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180517425	Marionette	INFO	Listening on port 41171
+1616180517450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:11744): GLib-GObject-CRITICAL **: 14:01:57.853: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180518908	Marionette	INFO	Stopped listening on port 41171
+1616180555504	geckodriver	INFO	Listening on 127.0.0.1:60521
+1616180555505	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPZMXc"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:12123): GLib-GObject-CRITICAL **: 14:02:36.195: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12144): GLib-GObject-CRITICAL **: 14:02:36.327: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180556692	Marionette	INFO	Listening on port 40141
+1616180556723	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12224): GLib-GObject-CRITICAL **: 14:02:37.187: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180558246	Marionette	INFO	Stopped listening on port 40141
+1616180595489	geckodriver	INFO	Listening on 127.0.0.1:47293
+1616180595492	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerDaeUA"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:12508): GLib-GObject-CRITICAL **: 14:03:16.170: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12529): GLib-GObject-CRITICAL **: 14:03:16.319: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180596886	Marionette	INFO	Listening on port 37333
+1616180596910	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12607): GLib-GObject-CRITICAL **: 14:03:17.183: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180598521	Marionette	INFO	Stopped listening on port 37333
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+1616180697749	geckodriver	INFO	Listening on 127.0.0.1:36867
+1616180697751	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuaDkau"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13175): GLib-GObject-CRITICAL **: 14:04:58.419: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13196): GLib-GObject-CRITICAL **: 14:04:58.564: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180698971	Marionette	INFO	Listening on port 37679
+1616180699077	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13277): GLib-GObject-CRITICAL **: 14:04:59.438: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180701465	Marionette	INFO	Stopped listening on port 37679
+1616180706041	geckodriver	INFO	Listening on 127.0.0.1:43867
+1616180706043	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFy2n8J"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13470): GLib-GObject-CRITICAL **: 14:05:06.735: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13492): GLib-GObject-CRITICAL **: 14:05:06.877: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180707306	Marionette	INFO	Listening on port 35073
+1616180707358	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13572): GLib-GObject-CRITICAL **: 14:05:07.733: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180709743	Marionette	INFO	Stopped listening on port 35073
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616180735084	geckodriver	INFO	Listening on 127.0.0.1:50019
+1616180735086	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIDQgwW"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:13866): GLib-GObject-CRITICAL **: 14:05:35.776: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13887): GLib-GObject-CRITICAL **: 14:05:35.899: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180736382	Marionette	INFO	Listening on port 44361
+1616180736401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:13976): GLib-GObject-CRITICAL **: 14:05:36.764: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180753366	geckodriver	INFO	Listening on 127.0.0.1:39851
+1616180753368	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5uuSL0"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:14223): GLib-GObject-CRITICAL **: 14:05:54.038: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14244): GLib-GObject-CRITICAL **: 14:05:54.187: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180754578	Marionette	INFO	Listening on port 44305
+1616180754695	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14336): GLib-GObject-CRITICAL **: 14:05:55.046: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180757264	Marionette	INFO	Stopped listening on port 44305
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616180922257	geckodriver	INFO	Listening on 127.0.0.1:54397
+1616180922259	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXSg7Ck"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:15143): GLib-GObject-CRITICAL **: 14:08:42.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:15164): GLib-GObject-CRITICAL **: 14:08:43.105: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180923617	Marionette	INFO	Listening on port 36447
+1616180923685	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15249): GLib-GObject-CRITICAL **: 14:08:43.960: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180948744	geckodriver	INFO	Listening on 127.0.0.1:47257
+1616180948746	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyIKV0n"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:15557): GLib-GObject-CRITICAL **: 14:09:09.437: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:15578): GLib-GObject-CRITICAL **: 14:09:09.558: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180950304	Marionette	INFO	Listening on port 42955
+1616180950375	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15669): GLib-GObject-CRITICAL **: 14:09:10.445: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616180952027	Marionette	INFO	Stopped listening on port 42955
+1616180979894	geckodriver	INFO	Listening on 127.0.0.1:45083
+1616180979896	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKmX4Tx"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:16089): GLib-GObject-CRITICAL **: 14:09:40.570: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:16110): GLib-GObject-CRITICAL **: 14:09:40.697: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180981152	Marionette	INFO	Listening on port 39871
+1616180981220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:16190): GLib-GObject-CRITICAL **: 14:09:41.594: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616180982874	Marionette	INFO	Stopped listening on port 39871
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+1616181007284	geckodriver	INFO	Listening on 127.0.0.1:59731
+1616181007285	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile52qk2m"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:16522): GLib-GObject-CRITICAL **: 14:10:07.950: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:16543): GLib-GObject-CRITICAL **: 14:10:08.093: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181008507	Marionette	INFO	Listening on port 34829
+1616181008614	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16623): GLib-GObject-CRITICAL **: 14:10:08.961: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181010237	Marionette	INFO	Stopped listening on port 34829
+1616181019839	geckodriver	INFO	Listening on 127.0.0.1:51071
+1616181019841	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRmHU0i"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:16864): GLib-GObject-CRITICAL **: 14:10:20.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:16885): GLib-GObject-CRITICAL **: 14:10:20.689: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181021139	Marionette	INFO	Listening on port 43385
+1616181021157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:16967): GLib-GObject-CRITICAL **: 14:10:21.560: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181022810	Marionette	INFO	Stopped listening on port 43385
+1616181061581	geckodriver	INFO	Listening on 127.0.0.1:41559
+1616181061583	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGChf4"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:17331): GLib-GObject-CRITICAL **: 14:11:02.251: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17356): GLib-GObject-CRITICAL **: 14:11:02.392: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181062831	Marionette	INFO	Listening on port 40967
+1616181062910	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17439): GLib-GObject-CRITICAL **: 14:11:03.245: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181064394	Marionette	INFO	Stopped listening on port 40967
+1616181089240	geckodriver	INFO	Listening on 127.0.0.1:51581
+1616181089241	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDWycg"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:17711): GLib-GObject-CRITICAL **: 14:11:29.908: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17732): GLib-GObject-CRITICAL **: 14:11:30.058: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181090571	Marionette	INFO	Listening on port 45357
+1616181090667	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17822): GLib-GObject-CRITICAL **: 14:11:30.984: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181092310	Marionette	INFO	Stopped listening on port 45357
+1616181125125	geckodriver	INFO	Listening on 127.0.0.1:48557
+1616181125127	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRIGl8f"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:18169): GLib-GObject-CRITICAL **: 14:12:05.831: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18190): GLib-GObject-CRITICAL **: 14:12:05.955: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181126548	Marionette	INFO	Listening on port 43883
+1616181126839	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18270): GLib-GObject-CRITICAL **: 14:12:06.895: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181139492	geckodriver	INFO	Listening on 127.0.0.1:50111
+1616181139494	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemdSDTh"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:18475): GLib-GObject-CRITICAL **: 14:12:20.200: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18496): GLib-GObject-CRITICAL **: 14:12:20.314: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181140749	Marionette	INFO	Listening on port 42713
+1616181140808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:18586): GLib-GObject-CRITICAL **: 14:12:21.197: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616181177708	geckodriver	INFO	Listening on 127.0.0.1:45373
+1616181177710	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5KZuRx"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:18986): GLib-GObject-CRITICAL **: 14:12:58.376: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19007): GLib-GObject-CRITICAL **: 14:12:58.530: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181179073	Marionette	INFO	Listening on port 41051
+1616181179319	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19084): GLib-GObject-CRITICAL **: 14:12:59.416: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181188476	geckodriver	INFO	Listening on 127.0.0.1:41319
+1616181188478	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilendvvSv"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:19275): GLib-GObject-CRITICAL **: 14:13:09.159: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19296): GLib-GObject-CRITICAL **: 14:13:09.318: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181189700	Marionette	INFO	Listening on port 45747
+1616181189804	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19378): GLib-GObject-CRITICAL **: 14:13:10.174: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181198198	geckodriver	INFO	Listening on 127.0.0.1:47667
+1616181198200	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOdlZ4k"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:19573): GLib-GObject-CRITICAL **: 14:13:18.860: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19594): GLib-GObject-CRITICAL **: 14:13:18.988: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181199360	Marionette	INFO	Listening on port 36831
+1616181199421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:19675): GLib-GObject-CRITICAL **: 14:13:19.873: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181200872	Marionette	INFO	Stopped listening on port 36831
+1616181215671	geckodriver	INFO	Listening on 127.0.0.1:41373
+1616181215673	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb1NTBb"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:19897): GLib-GObject-CRITICAL **: 14:13:36.361: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19918): GLib-GObject-CRITICAL **: 14:13:36.515: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181216925	Marionette	INFO	Listening on port 40243
+1616181216995	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20036): GLib-GObject-CRITICAL **: 14:13:37.368: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181218512	Marionette	INFO	Stopped listening on port 40243
+1616181343519	geckodriver	INFO	Listening on 127.0.0.1:33373
+1616181343521	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZrGKi"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:20764): GLib-GObject-CRITICAL **: 14:15:44.229: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20785): GLib-GObject-CRITICAL **: 14:15:44.361: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181344789	Marionette	INFO	Listening on port 42875
+1616181344835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:20864): GLib-GObject-CRITICAL **: 14:15:45.212: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181345549	Marionette	INFO	Stopped listening on port 42875
+1616181351887	geckodriver	INFO	Listening on 127.0.0.1:57811
+1616181351889	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesGSpiu"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21055): GLib-GObject-CRITICAL **: 14:15:52.560: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21080): GLib-GObject-CRITICAL **: 14:15:52.686: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181353098	Marionette	INFO	Listening on port 39215
+1616181353213	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21160): GLib-GObject-CRITICAL **: 14:15:53.585: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181353995	Marionette	INFO	Stopped listening on port 39215
+1616181374791	geckodriver	INFO	Listening on 127.0.0.1:46195
+1616181374792	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEzUU2F"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21430): GLib-GObject-CRITICAL **: 14:16:15.446: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21451): GLib-GObject-CRITICAL **: 14:16:15.611: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181376147	Marionette	INFO	Listening on port 40157
+1616181376411	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21544): GLib-GObject-CRITICAL **: 14:16:16.470: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181383180	geckodriver	INFO	Listening on 127.0.0.1:39509
+1616181383182	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKfpSoH"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:21725): GLib-GObject-CRITICAL **: 14:16:23.872: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21746): GLib-GObject-CRITICAL **: 14:16:24.029: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181384422	Marionette	INFO	Listening on port 41459
+1616181384512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:21827): GLib-GObject-CRITICAL **: 14:16:24.891: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181386582	Marionette	INFO	Stopped listening on port 41459
+1616181462316	geckodriver	INFO	Listening on 127.0.0.1:33685
+1616181462318	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletXN7Ew"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22398): GLib-GObject-CRITICAL **: 14:17:43.020: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22419): GLib-GObject-CRITICAL **: 14:17:43.132: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181463584	Marionette	INFO	Listening on port 40045
+1616181463642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:22501): GLib-GObject-CRITICAL **: 14:17:44.032: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181472861	geckodriver	INFO	Listening on 127.0.0.1:48393
+1616181472863	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV3JH8s"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22689): GLib-GObject-CRITICAL **: 14:17:53.550: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22710): GLib-GObject-CRITICAL **: 14:17:53.681: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181474210	Marionette	INFO	Listening on port 38145
+1616181474290	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22791): GLib-GObject-CRITICAL **: 14:17:54.580: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181509438	geckodriver	INFO	Listening on 127.0.0.1:57403
+1616181509440	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLRh1kv"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23109): GLib-GObject-CRITICAL **: 14:18:30.128: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23130): GLib-GObject-CRITICAL **: 14:18:30.259: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181510823	Marionette	INFO	Listening on port 34379
+1616181510864	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23219): GLib-GObject-CRITICAL **: 14:18:31.152: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181511578	Marionette	INFO	Stopped listening on port 34379
+1616181523767	geckodriver	INFO	Listening on 127.0.0.1:35517
+1616181523769	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFTNAmY"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23415): GLib-GObject-CRITICAL **: 14:18:44.405: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23436): GLib-GObject-CRITICAL **: 14:18:44.576: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181525047	Marionette	INFO	Listening on port 37773
+1616181525086	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23517): GLib-GObject-CRITICAL **: 14:18:45.428: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181527175	Marionette	INFO	Stopped listening on port 37773
+1616181546620	geckodriver	INFO	Listening on 127.0.0.1:50185
+1616181546622	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3rWbqk"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23836): GLib-GObject-CRITICAL **: 14:19:07.307: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23885): GLib-GObject-CRITICAL **: 14:19:07.466: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181548294	Marionette	INFO	Listening on port 46443
+1616181548336	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23962): GLib-GObject-CRITICAL **: 14:19:08.459: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181551341	Marionette	INFO	Stopped listening on port 46443
+1616181591470	geckodriver	INFO	Listening on 127.0.0.1:47509
+1616181591472	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0cHaQG"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24686): GLib-GObject-CRITICAL **: 14:19:52.143: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24707): GLib-GObject-CRITICAL **: 14:19:52.316: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181592847	Marionette	INFO	Listening on port 34051
+1616181592898	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24791): GLib-GObject-CRITICAL **: 14:19:53.182: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181595983	Marionette	INFO	Stopped listening on port 34051
+1616181609127	geckodriver	INFO	Listening on 127.0.0.1:39765
+1616181609129	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIs8YL1"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:25013): GLib-GObject-CRITICAL **: 14:20:09.790: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25034): GLib-GObject-CRITICAL **: 14:20:09.927: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181610516	Marionette	INFO	Listening on port 41755
+1616181610745	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25111): GLib-GObject-CRITICAL **: 14:20:10.822: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181613933	Marionette	INFO	Stopped listening on port 41755
+1616181628496	geckodriver	INFO	Listening on 127.0.0.1:54467
+1616181628497	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuDwKuA"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:25383): GLib-GObject-CRITICAL **: 14:20:29.162: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25404): GLib-GObject-CRITICAL **: 14:20:29.296: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181629830	Marionette	INFO	Listening on port 40051
+1616181629923	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25481): GLib-GObject-CRITICAL **: 14:20:30.253: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181633169	Marionette	INFO	Stopped listening on port 40051
+1616181664101	geckodriver	INFO	Listening on 127.0.0.1:46053
+1616181664103	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemnA3eA"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:25760): GLib-GObject-CRITICAL **: 14:21:04.814: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25781): GLib-GObject-CRITICAL **: 14:21:04.958: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181665554	Marionette	INFO	Listening on port 36015
+1616181665628	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25861): GLib-GObject-CRITICAL **: 14:21:05.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616181668886	Marionette	INFO	Stopped listening on port 36015
+1616181709968	geckodriver	INFO	Listening on 127.0.0.1:43771
+1616181709970	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL67Eqx"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26184): GLib-GObject-CRITICAL **: 14:21:50.671: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26205): GLib-GObject-CRITICAL **: 14:21:50.797: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181711237	Marionette	INFO	Listening on port 39331
+1616181711285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+
+(/usr/lib/firefox/firefox:26297): GLib-GObject-CRITICAL **: 14:21:51.677: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181714401	Marionette	INFO	Stopped listening on port 39331
+1616181766129	geckodriver	INFO	Listening on 127.0.0.1:35133
+1616181766131	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile20QK3d"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26859): GLib-GObject-CRITICAL **: 14:22:46.809: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26880): GLib-GObject-CRITICAL **: 14:22:46.941: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181767375	Marionette	INFO	Listening on port 35791
+1616181767459	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616181772600	geckodriver	INFO	Listening on 127.0.0.1:60503
+1616181772602	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledcoxKn"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27100): GLib-GObject-CRITICAL **: 14:22:53.280: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27121): GLib-GObject-CRITICAL **: 14:22:53.418: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181773923	Marionette	INFO	Listening on port 33139
+1616181774026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616181774048	Marionette	INFO	Stopped listening on port 33139
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1616181914118	geckodriver	INFO	Listening on 127.0.0.1:58779
+1616181914120	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekE2sro"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:28445): GLib-GObject-CRITICAL **: 14:25:14.767: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:28466): GLib-GObject-CRITICAL **: 14:25:14.926: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616181915352	Marionette	INFO	Listening on port 38765
+1616181915444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616181915460	Marionette	INFO	Stopped listening on port 38765
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616618979077	geckodriver	INFO	Listening on 127.0.0.1:41869
+1616618980081	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWtPkJm"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:12067): GLib-GObject-CRITICAL **: 15:49:40.948: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12088): GLib-GObject-CRITICAL **: 15:49:41.116: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616618981635	Marionette	INFO	Listening on port 39885
+1616618981704	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12165): GLib-GObject-CRITICAL **: 15:49:41.993: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: http://192.168.1.254/cgi-bin/devices.ha, line 21: TypeError: antiClickjack is null
+1616618984708	Marionette	INFO	Stopped listening on port 39885
